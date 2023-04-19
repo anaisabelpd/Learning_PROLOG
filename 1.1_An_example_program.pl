@@ -20,3 +20,9 @@ male(tom).    % tom is male
 male(bob).
 male(jim).
 
+% Other way
+% sex(pam,feminine).
+% sex(tom,masculine).
+% sex(bob,masculine).
+
+
