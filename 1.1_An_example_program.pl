@@ -8,7 +8,7 @@ parent(bob,ann).
 parent(bob,pat).
 parent(pat,jim).
 
-% Add the information of the sex of the people that occur in
+% Information of the sex of the people that occur in
 % the parent relation
 % This relations are unary
 
