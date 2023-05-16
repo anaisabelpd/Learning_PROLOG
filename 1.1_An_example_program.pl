@@ -25,4 +25,6 @@ male(jim).
 % sex(tom,masculine).
 % sex(bob,masculine).
 
+% The offspring relations as the inverse of the parent relation
+offspring(Y,X):- parent(X,Y).
 
